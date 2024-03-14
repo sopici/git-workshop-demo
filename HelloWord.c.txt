@@ -2,5 +2,6 @@ l#inlcude<stdio.h>
 
 int main(){
 	printf("hello word ");
-	return 0;
+	printf("Hello github);
+	
 }
